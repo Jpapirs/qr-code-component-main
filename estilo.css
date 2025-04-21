@@ -21,7 +21,7 @@ main{
     
 }
 main img{
-    width: 350px;
+    width: auto;
     border-radius: 15px;
     display: block;
     height: auto;
