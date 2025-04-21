@@ -15,17 +15,19 @@ main{
     margin: auto;
     border-radius: 15px;
     background-color: white;
-    width: 380px;
+    width: 300px;
     padding: 30px;
     margin-top: 40px;
     
 }
 main img{
-    width: auto;
+    width: 300px;
     border-radius: 15px;
     display: block;
     height: auto;
+    display: block;
     margin: auto;
+    margin-top: 2px;
 }
 aside{
     text-indent: 3px;
