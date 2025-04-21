@@ -26,7 +26,7 @@ main img{
     min-width: 300px;
     border-radius: 15px;
     display: block;
-    height: auto;
+    height: 100%;
     margin: auto;
 }
 aside{
