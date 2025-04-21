@@ -15,15 +15,13 @@ main{
     margin: auto;
     border-radius: 15px;
     background-color: white;
-    max-width: 410px;
-    min-width: 350px;
+    width: 380px;
     padding: 30px;
     margin-top: 40px;
     
 }
 main img{
-    max-width: 410px;
-    min-width: 350px;
+    width: 350px;
     border-radius: 15px;
     display: block;
     height: auto;
