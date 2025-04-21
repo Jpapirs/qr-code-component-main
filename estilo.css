@@ -15,21 +15,21 @@ main{
     margin: auto;
     border-radius: 15px;
     background-color: white;
-    max-width: 400px;
-    min-width: 300px;
+    max-width: 410px;
+    min-width: 350px;
     padding: 30px;
     margin-top: 40px;
     
 }
 main img{
     max-width: 410px;
-    min-width: 300px;
+    min-width: 350px;
     border-radius: 15px;
     display: block;
-    height: 100%;
+    height: auto;
     margin: auto;
 }
 aside{
-    
+    text-indent: 3px;
     margin-left: 10px;
 }
